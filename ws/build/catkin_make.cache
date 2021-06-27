@@ -1,0 +1,2 @@
+my_first_ros_pkg:ros_msg_test
+-DCATKIN_DEVEL_PREFIX=/home/yeji/ws/devel -DCMAKE_INSTALL_PREFIX=/home/yeji/ws/install -G Unix Makefiles

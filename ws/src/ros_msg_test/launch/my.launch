@@ -1,0 +1,5 @@
+<launch>
+  <node name="topic_subscriber" pkg="ros_msg_test" type="topic_subscriber.cpp"/>
+  <node name="topic_subscriber2" pkg="ros_msg_test" type="topic_subscriber2.cpp"/>
+  <node name="order_topic_publisher" pkg="ros_msg_test"  type="order.cpp"/>
+</launch>
