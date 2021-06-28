@@ -6,7 +6,7 @@
 ##### topic_publisher 노드: 현재 시간을 ros_test_msg 토픽으로 topic_subscriber노드에 전송
 ##### order_topic_publisher 노드: 키오스크에서 주문받은 사항을 order_msg 토픽으로 topic_subscriber노드에 전송
 ##### topic_subscriber 노드: 
-<br>
+
 ![img](https://user-images.githubusercontent.com/63354563/123586847-5154d800-d820-11eb-8c4e-8eadf23de1d2.png)
 
 
